@@ -1,1 +1,17 @@
+name: Ungovernable Misfits
+host: Max BBB
+language: en
+links:
+  website: https://ungovernablemisfits.com
+  podcast: https://podcasts.apple.com/fr/podcast/ungovernable-misfits/id1491067458
+  twitter: https://x.com/maxbitbuybit
 
+description: |
+  Sick of being spied on, stolen from, and lied to? Ungovernable Misfits aim to ignite a rebellious spark in every listener. We explore ways to regain privacy and freedom using Bitcoin and open source software. Freedoms are not granted, they are taken and defended. We are rebels with a cause. Join us and become Ungovernable.
+
+tags:
+  - bitcoin
+  - economy
+  - rivacy
+contributors:
+  - ajelex
